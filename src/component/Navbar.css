@@ -1,0 +1,25 @@
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #122e88;
+    padding: 10px 0;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+  }
+  
+  nav a:hover {
+    color: #f0f0f0;
+  }
+  
+  p {
+    text-align: center;
+    font-size: 18px;
+    color: #122e88;
+    margin-top: 20px;
+    font-weight: bold;
+  }
